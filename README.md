@@ -26,17 +26,5 @@ After installation, activate the environment:
 conda activate <environment_name>
 ```
 
-## Citation
-If you use this code in your research, please cite:
-
-```
-@article{your_reference,
-  title={Exploring Multiscale Methods: Reviews and Insights},
-  author={Your Name},
-  journal={TBD},
-  year={2025}
-}
-```
-
 ## Contact
 For any questions regarding the code or implementation, please contact [guebin@jbnu.ac.kr].
